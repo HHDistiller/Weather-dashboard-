@@ -1,2 +1,1 @@
-# Weather Dashboard
-# ⛈️❄️☃️🌦️☀️🌬️☔️☃🌪️
+# Weather-dashboard-
