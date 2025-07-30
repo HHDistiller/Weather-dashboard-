@@ -1,4 +1,4 @@
-const apiKey = '.40b2e27c41beba54baaf70cacd50acb6'; // Replace with your actual key
+const apiKey = '40b2e27c41beba54baaf70cacd50acb6'; // Replace with your actual key
 const zip = '40047'; // Mount Washington ZIP
 
 async function getWeatherData() {
